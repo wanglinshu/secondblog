@@ -1,9 +1,3 @@
 # MyBlog
-Just for study.  
-Thanks for S丶m1lence丶,an up in bilibili.  
-The source video number:av72035869.
-
-Thanks for those great projects:  
-  
-live2d-------https://github.com/stevenjoezhang/live2d-widget  
-ribbon.js----https://github.com/hustcc/ribbon.js
+个人博客，欢迎借鉴
+但是还有一些细节没有完善，还有一些功能没有补充，后续有时间会继续修改
